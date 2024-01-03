@@ -1,4 +1,4 @@
-# Bigmart Sales Analysis using Machine learning(Regression Problem)
+# 1)Bigmart Sales Analysis using ML(Regression Problem)
 
 ### Project Overview & Brief Introduction:
 -------------------------------------------
