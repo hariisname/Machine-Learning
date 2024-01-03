@@ -11,9 +11,9 @@ stocking, pricing, and overall business performance.
 ### Tools & Technologies:
 ---------------------------
 Programming Language            : Python                                                                 
-Machine Learning Libraries      : Scikit-learn for model building                                                        
-Data Analysis and Visualization : NumPy, Pandas, Matplotlib, Seaborn                                                        
-IDE                             : Jupyter Notebook                                                                          
+Machine Learning Libraries      : Scikit-learn for model building,                                                        
+Data Analysis and Visualization : NumPy, Pandas, Matplotlib, Seaborn,                                                        
+IDE                             : Jupyter Notebook,                                                                          
 while Im doing this project i followed one structure that :-                                                                           
 Project Structure that i followed as EDA, data preprocessing, model training, evaluation, and visualization.
 
