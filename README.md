@@ -10,7 +10,7 @@ stocking, pricing, and overall business performance.
 
 ### Tools & Technologies:
 ---------------------------
-Programming Language            : Python
+Programming Language            : Python                                                                 
 Machine Learning Libraries      : Scikit-learn for model building
 Data Analysis and Visualization : NumPy, Pandas, Matplotlib, Seaborn
 IDE                             : Jupyter Notebook
